@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bartłomiej</h1>
-<h3 align="center">A passionate fullstack developer from Katowice</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm Bartłomiej, a passionate fullstack developer from Katowice</h3>
 
 - 🔭 I’m currently working on [ForumApp](https://github.com/bartekmazik/ForumApp)
 
