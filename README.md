@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br>My name is Bartłomiej!<br><br>🤝 I’m looking for an Internship as a React Developer<br><br>🌱 I’m currently learning Node.js and Next.js<br>
+Hi 👋<br>My name is Bartłomiej!
 
 
 ## 🌐 Socials:
